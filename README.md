@@ -1,4 +1,4 @@
-📝 Trading Classification Dashboard
+Trading Classification Dashboard
 
 # Overview
 - The Trading Classification Dashboard is a machine learning project designed to classify the prevailing market sentiment (Fear, Greed, Neutral, etc.) by combining historical trade execution data with the Fear & Greed Index. The system builds a robust, end-to-end Scikit-learn Pipeline and deploys the resulting model as an interactive web application using Streamlit.
