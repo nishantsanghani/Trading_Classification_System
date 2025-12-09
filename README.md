@@ -37,3 +37,4 @@ Trading Classification Dashboard
 - Streamlit: Interactive web dashboard deployment (main.py).
 •	joblib: Model serialization (model.pkl).
 
+Live URL:https://tradingclassificationsystem-1.streamlit.app/
